@@ -54,3 +54,6 @@ Break down of the code step by step:
    - `plt.show()`: Displays the generated plot with the specified data and formatting.
 
 In summary, this code reads data into a Pandas DataFrame, creates two line plots on a shared x-axis (with different y-axes), adds labels and a title, and displays the resulting plot using Matplotlib. It's used for visualizing the relationship between pressure, solution gas, and formation volume factor in the context of petroleum engineering or fluid behavior analysis.
+
+
+References: Reema Omar as retrieved from https://www.linkedin.com/posts/reema-omar-3191b6197_python-reservoirengineering-activity-6999141749528887296-896u?utm_source=share&utm_medium=member_desktop
